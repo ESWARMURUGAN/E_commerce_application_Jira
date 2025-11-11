@@ -33,6 +33,11 @@ This project was implemented using the **Scrum framework** within a **Jira Compa
     * **Bugs/Tasks/Subtasks:** Used to track defects and necessary technical steps.
 * **Prioritization & Grooming:** The backlog was rigorously **groomed** to ensure the highest-value items were at the top, a process demonstrated through explicit re-ranking of the 44 issues, focusing specifically on critical functions for the initial software release.
 
+> **Visual: Product Backlog Management**
+> *A visual of the fully groomed and prioritized Product Backlog in Jira, showing Epics, Issues, and Story Points.*
+>
+> ![Product Backlog Management in Jira](https://raw.githubusercontent.com/ESWARMURUGAN/E_commerce_application_Jira/dc6173c4cf9f103e8cfe2df39eb39333af742b5e/product_backlog_management.png)
+
 ### 2. Development Cycle & Artifacts
 
 * **Sprints:** Work is planned and executed in fixed-duration **Sprints** (cycles). An initial Sprint was planned by selecting a committed set of prioritized items based on **Story Point Estimation** (e.g., using Fibonacci sequence values: 1, 2, 3, 5, 8, 13) to assess team effort.
@@ -43,19 +48,19 @@ This project was implemented using the **Scrum framework** within a **Jira Compa
     * `Done`
     The movement of issues across these columns provides real-time transparency of the team’s progress during the Sprint.
 
+> **Visual: Active Sprints - Scrum Board**
+> *A visual of the customized Scrum Board showing issues actively moving through the To Do, In Progress, To Verify, and Done columns.*
+>
+> ![Custom Scrum Board and Sprint Progress](https://raw.githubusercontent.com/ESWARMURUGAN/E_commerce_application_Jira/dc6173c4cf9f103e8cfedf39eb39333af742b5e/active_sprints.png)
+
 * **Versions & Components:**
     * **Versions (Releases):** Issues were assigned to three distinct software releases: **Version 1.0, 2.0, and 3.0**, aligning development work with the long-term product roadmap.
     * **Components:** Used to structure the project by technical domain (e.g., `iOS` vs. `Android`), facilitating specialized resource assignment.
 
-> **Screenshot Placeholder: Product Backlog View**
-> *A visual of the fully groomed and prioritized Product Backlog in Jira, showing Epics, Issues, and Story Points.*
+> **Visual: Product Release Versions**
+> *A visual demonstrating how features and issues are organized under specific product versions (releases) for roadmapping.*
 >
-> `![Product Backlog Management in Jira](./screenshots/backlog_grooming.png)`
-
-> **Screenshot Placeholder: Custom Scrum Board**
-> *A visual of the customized Scrum Board showing issues actively moving through the To Do, In Progress, To Verify, and Done columns.*
->
-> `![Custom Scrum Board and Sprint Progress](./screenshots/scrum_board_custom.png)`
+> ![Product Release Versions for Roadmap](https://raw.githubusercontent.com/ESWARMURUGAN/E_commerce_application_Jira/dc6173c4cf9f103e8cfe2df39eb39333af742b5e/product_release_versions.png)
 
 ---
 
