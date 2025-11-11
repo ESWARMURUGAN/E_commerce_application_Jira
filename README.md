@@ -51,7 +51,7 @@ This project was implemented using the **Scrum framework** within a **Jira Compa
 > **Visual: Active Sprints - Scrum Board**
 > *A visual of the customized Scrum Board showing issues actively moving through the To Do, In Progress, To Verify, and Done columns.*
 >
-> ![Custom Scrum Board and Sprint Progress](https://raw.githubusercontent.com/ESWARMURUGAN/E_commerce_application_Jira/dc6173c4cf9f103e8cfedf39eb39333af742b5e/active_sprints.png)
+> ![Custom Scrum Board and Sprint Progress](https://github.com/ESWARMURUGAN/E_commerce_application_Jira/blob/670c527fa53b48e50c0971e20ddea4652c5fcc9d/active_sprints.png)
 
 * **Versions & Components:**
     * **Versions (Releases):** Issues were assigned to three distinct software releases: **Version 1.0, 2.0, and 3.0**, aligning development work with the long-term product roadmap.
