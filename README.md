@@ -1,4 +1,4 @@
-# Agile Project Management & Digital Transformation: E-commerce Product Development using Atlassian Jira and Scrum Framework
+# Agile Project Management :E-commerce Product Development using Atlassian Jira and Scrum Framework
 
 ---
 
